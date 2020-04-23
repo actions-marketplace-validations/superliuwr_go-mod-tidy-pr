@@ -1,6 +1,6 @@
-name: go-mod-tidy-pr
+name: go-mod-tidy-pr-go-1.13.4
 description: Run `go mod tidy` and create PullRequest on GitHub Actions
-author: sue445
+author: superliuwr
 branding:
   icon: code
   color: green
