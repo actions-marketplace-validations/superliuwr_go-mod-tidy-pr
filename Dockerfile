@@ -1,4 +1,4 @@
-FROM golang
+FROM golang:1.13.4
 
 ENV HUB_VERSION 2.14.1
 
